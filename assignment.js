@@ -1,4 +1,4 @@
-//https://github.com/akteratikofficial/assignment.js
+//https://github.com/akteratikofficial/assignment.js 
 
 // ---------- kilometerToMeter ----------
 
@@ -66,7 +66,7 @@ function megaFriend(friendsName) {
     return largestName;
 }
 
-// -----------------friendsName -------------------
+// -----------------friendsName ------------------ 
 var getMegaFriend = megaFriend(['Mahdi Hasan', 'Hafiz Sajid Abdullah', 'Sarwar Ahmed',]);
 
 console.log(getMegaFriend);
